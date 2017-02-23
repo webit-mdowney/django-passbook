@@ -50,5 +50,4 @@ The complete specification can be found in the [Passbook Web Service Reference](
 Contact
 =======
 
-Kalyan Vishnubhatla - kalvish@gmail.com
-James Hannon - www.jameshannon.co.uk
+Matthew Downey - matthew.downey@webit.com.au
